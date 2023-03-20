@@ -1,0 +1,4 @@
+assets/models/*
+assets/videos/*
+venv
+*.mp4*
