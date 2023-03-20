@@ -2,3 +2,5 @@ assets/models/*
 assets/videos/*
 venv
 *.mp4*
+build
+dist
